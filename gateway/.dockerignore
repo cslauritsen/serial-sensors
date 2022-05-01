@@ -1,0 +1,8 @@
+*.pyc
+*.log
+*.out
+*.err
+log/
+Makefile
+rebuild
+Dockerfile
